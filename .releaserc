@@ -2,7 +2,7 @@
   "extends": "semantic-release-monorepo",
   "branches": [
     "release",
-    "next"
+    "develop"
   ],
   "plugins": [
     "@semantic-release/commit-analyzer",
